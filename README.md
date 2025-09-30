@@ -1,7 +1,7 @@
 # Desafio #02: Estruturando a Área de Testes da Empresa
 
 Este portfólio é o resultado do Desafio #2: Estruturação da Área de Testes da Empresa, parte da **Mentoria M2.0 em Testes de Software do Júlio de Lima.**
-O objetivo central foi definir e formalizar os processos de QA para uma nova área de testes na empresa "Clebinho Soluções em Pagamentos". Fomos contratados como os primeiros QAs e incumbidos de estruturar a área do zero, definindo as atividades de teste a serem realizadas, os responsáveis por cada atividade, o momento (sequência) de execução de cada processo e as ferramentas e dependências necessárias.
+O objetivo central foi definir e formalizar os processos de QA para uma nova área de testes na empresa "Clebinho Soluções em Pagamentos". Fomos contratados como os primeiros QAs e encarregados de estruturar a área do zero, definindo as atividades de teste a serem realizadas, os responsáveis por cada atividade, o momento (sequência) de execução de cada processo e as ferramentas e dependências necessárias.
 
 A coleta dessas informações serviram para estruturar os seguintes processos:
 1. Refinamento focado em testes
